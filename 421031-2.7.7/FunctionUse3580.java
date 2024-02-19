@@ -1,0 +1,6 @@
+import org.apache.hadoop.record.compiler.JInt.CppInt;
+public class FunctionUse3580 {
+public void funcUse() {
+CppInt cppint = new CppInt();
+}
+}

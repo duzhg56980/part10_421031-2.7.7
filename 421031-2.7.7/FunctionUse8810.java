@@ -1,0 +1,6 @@
+import org.apache.hadoop.io.SequenceFile.Sorter.MergeQueue;
+public class FunctionUse8810 {
+public void funcUse() {
+MergeQueue mergequeue = new MergeQueue();
+}
+}
